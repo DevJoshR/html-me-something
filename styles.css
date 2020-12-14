@@ -1,0 +1,29 @@
+body {
+    background-color: yellow;
+    text-align: center;
+
+}
+
+img {
+    width: 30%;
+    margin: auto;
+    display: block;
+    background-color:blue;
+    padding: 25px 100px;
+}
+
+
+p {
+    background-color: blue;
+    padding: 25px 100px;
+}
+
+
+
+.no-bullets {
+    list-style-type: none;
+}
+#underLine{
+    text-decoration: underline;
+}
+
